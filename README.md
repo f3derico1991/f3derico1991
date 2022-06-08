@@ -5,7 +5,7 @@
 
 ### Habilidades <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4aa.png" width=20 height=20>:
 *   Python (pandas,numpy,matplotlib,seaborn)
-*   R/RStudio (tidyverse)
+*   R/RStudio 
 *   SQL
 *   Power BI
 
