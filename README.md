@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://miro.medium.com/max/1400/1*Eo8kw0PWPpnZ1m-NbTU66w.png)
+
+#### Redes sociales:
+-![Linkegin]()
+-![Twitter]()
