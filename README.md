@@ -1,10 +1,10 @@
 ## Hola, mi nombre es Federico Herrera <img src="https://pa1.narvii.com/6919/4f6170171a9bebd68d660c39dd0e2962f9a8372ar1-480-342_hq.gif" width="50" height="50" />
-### Estudiante de Ciencia de datos y data analitycs
+ 
 
 ![fede](https://user-images.githubusercontent.com/78045176/172668020-6cf9947d-c770-48a0-b8a5-fcf779dfb048.png)
 
 ### Habilidades <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4aa.png" width=20 height=20>:
-*   Python (pandas,numpy,matplotlib,seavorn)
+*   Python (pandas,numpy,matplotlib,seaborn)
 *   R/RStudio (tidyverse)
 *   SQL
 *   Power BI
