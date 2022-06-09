@@ -19,7 +19,7 @@
     <img height="32" align="left" alt="Twitter" src="https://www.ucm.es/juliovelez/file/tw/?ver" />
 </a>
 
-<a href="mailto:herrerafedericohectorgmail.com?">
+<a href="mailto:herrerafedericohector@gmail.com?">
     <img height="32" align="left" alt="Gmail" src="https://www.profesionalreview.com/wp-content/uploads/2017/05/3-extensiones-para-ser-m%C3%A1s-productivo-con-Gmail-00-1280x720.jpg" />
 </a>
 
