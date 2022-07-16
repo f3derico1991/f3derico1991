@@ -10,7 +10,22 @@
 *   Power BI
 
 
-### Contactos: 
+
+
+···········································································································································
+
+  <img align="right" alt="GIF" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/giphy.gif?raw=true" width="500" height="320" />
+
+**Lenguajes y Herramientas:**
+
+<code><img height="40" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/python.png"></code>
+<code><img height="40" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/rstudio.png"></code>
+<code><img height="40" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/sql.png"></code>
+<code><img height="40" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/github.png"></code>
+<code><img height="40" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/power-bi.png"></code>
+
+**Contacto:**
+
 <a href="https://www.linkedin.com/in/h%C3%A9ctor-federico-herrera-3ba44b203/">
     <img height="32" align="left" alt="Linkedim" src="https://fatimamartinez.es/wp-content/uploads/2019/02/logo-linkedin-600-x-600.jpg" />
 </a>
@@ -19,9 +34,6 @@
     <img height="32" align="left" alt="Twitter" src="https://www.ucm.es/juliovelez/file/tw/?ver" />
 </a>
 
-<a href="mailto:herrerafedericohector@gmail.com?">
+<a href="mailto:herrerafedericohector@gmail.com">
     <img height="32" align="left" alt="Gmail" src="https://www.profesionalreview.com/wp-content/uploads/2017/05/3-extensiones-para-ser-m%C3%A1s-productivo-con-Gmail-00-1280x720.jpg" />
 </a>
-
-···········································································································································
-
