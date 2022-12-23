@@ -16,8 +16,8 @@
 **Intereses:**
 * Data Science
 * Data Analytics
-* Maching Learning
-* Deep Learning
+* Maching-Learning
+* Deep-Learning
 * Python
 
 **Redes:**
