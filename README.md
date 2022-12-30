@@ -14,11 +14,11 @@
 <code><img height="40" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/power-bi.png"></code>
 
 **Intereses:**
-* Data Science
-* Data Analytics
-* Maching-Learning
-* Deep-Learning
-* Python
+- Data Science
+- Data Analytics
+- Maching-Learning
+- Deep-Learning
+- Python
 
 **Redes:**
 
