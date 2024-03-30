@@ -1,7 +1,7 @@
 
 ## Hola¡, soy Federico Herrera <img src="https://pa1.narvii.com/6919/4f6170171a9bebd68d660c39dd0e2962f9a8372ar1-480-342_hq.gif" width="50" height="50" />
 
-### icenciado en Ciencia de Datos de la Universidad Nacional Guillermo Brown.
+### Licenciado en Ciencia de Datos de la Universidad Nacional Guillermo Brown.
 
 <img align="right" alt="GIF" src="https://github.com/f3derico1991/f3derico1991/blob/main/profile-img/giphy.gif?raw=true" width="500" height="320" />
 
